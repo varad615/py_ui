@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import ttk
 import customtkinter
 
 
@@ -13,6 +12,7 @@ def convert():
 window = customtkinter.CTk()
 window.title('Convertor')
 window.geometry('320x150')
+
 
 # widgets
 # title
